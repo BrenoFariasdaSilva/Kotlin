@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- The top-level or root element of the layout is a <LinearLayout> element.
+The LinearLayout view is a ViewGroup.
+View groups are containers that hold other views and help specify the views' positions on the screen -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    tools:context=".MainActivity" >
+
+<!--    <TextView-->
+<!--        android:id = "@+id/result_text"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_horizontal"-->
+<!--        android:textSize="30sp"-->
+<!--        android:text="Hello World!" />-->
+        <ImageView
+            android:id="@+id/dice_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            app:srcCompat="@drawable/empty_dice"
+            tools:src="@drawable/dice_1"/>
+
+    <Button
+        android:id = "@+id/roll_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/roll_label" />
+
+    <!--  Setting both the layout_width and layout_height attributes to "wrap_content" makes the button
+          to have the same width and height as the text label it contains.
+          The android:text attribute set as "Roll". The Button element now looks like this
+          All the strings must be inside strings.xlm file instead of hardcoded inside this file -->
+
+    <Button
+        android:id = "@+id/countUp_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text = "Count Up"
+        />
+
+</LinearLayout>
