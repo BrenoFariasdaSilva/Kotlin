@@ -41,7 +41,7 @@ java -jar filenameHere.jar
 ```
 
 ## IDE - Android Studio:
-For Android Studio, you can download it from [here](https://developer.android.com/studio) or install it via Snap. \
+Download and install the Android Studio from [here](https://developer.android.com/studio) or install it via Snap. \
 Honestly, i hate to use the Snap version of anything, but it's irrefutable that it's the easiest way to install lots of apps.
 * Install Snap: 
 ```bash
