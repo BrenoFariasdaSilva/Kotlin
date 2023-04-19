@@ -1,4 +1,4 @@
-# Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/Kotlin/Kotlin-original.svg"  width="3%" height="3%">
+# Kotlin <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  width="3%" height="3%">
 This repo is made with the objective of showing the Kotlin related codes i have written. \
 Feel free to contribute and send suggestions.
 
