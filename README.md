@@ -28,6 +28,7 @@ Feel free to contribute and send suggestions.
 
 	# Java in order to execute the generated jar file:
 	sdk install java
+	java -version
 	```
 
 ## Run Kotlin code:
