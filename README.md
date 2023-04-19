@@ -12,8 +12,7 @@ Feel free to contribute and send suggestions.
 	sudo apt-get install zip -y
 	```
 
-* SDKMAN Tool: 
-  * SDKMAN is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates.
+* SDKMAN Tool: SDKMAN is a tool for managing parallel versions of multiple Software Development Kits on most Unix based systems. It provides a convenient Command Line Interface (CLI) and API for installing, switching, removing and listing Candidates.
   
 	```bash
 	# SDKMAN:
