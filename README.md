@@ -28,9 +28,8 @@ Feel free to contribute and send suggestions.
 	kotlin -version
 
 	# Java for executing the jar file:
-	sudo apt install -y openjdk-18-jdk
+	sdk install java
 	```
-
 
 ## Run Kotlin code:
 ```bash
