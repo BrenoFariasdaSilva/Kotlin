@@ -27,7 +27,7 @@ Feel free to contribute and send suggestions.
 	sdk install kotlin
 	kotlin -version
 
-	# Java for executing the jar file:
+	# Java in order to execute the generated jar file:
 	sdk install java
 	```
 
