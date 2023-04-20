@@ -35,9 +35,11 @@ Feel free to contribute and send suggestions.
 ```bash
 # Compile the application using the Kotlin compiler:
 kotlinc filenameHere.kt -include-runtime -d filenameHere.jar
+# Example: kotlinc main.kt -include-runtime -d main.jar
 
 # Run the application.
 java -jar filenameHere.jar
+# Example: java -jar main.jar
 ```
 
 ## IDE - Android Studio:
