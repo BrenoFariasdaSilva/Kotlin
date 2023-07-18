@@ -19,6 +19,12 @@ Feel free to contribute and send suggestions.
   <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Kotlin.svg" alt="wakatime" />
 </p>
 
+<div align="center">
+  
+![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/54c6014ed6bb4be23d3c23b1dce51d0fdc0f4a52.svg "Repobeats analytics image")
+
+</div>
+
 ## Installation:
 * Zip and Unzip Tools: Zip and Unzip might be some necessary tools to install SDKMAN
 	```bash
