@@ -25,6 +25,16 @@ Feel free to contribute and send suggestions.
 
 </div>
 
+## Table of Contents
+- [Kotlin. ](#kotlin-)
+	- [Table of Contents](#table-of-contents)
+	- [Installation:](#installation)
+	- [Run Kotlin code:](#run-kotlin-code)
+	- [IDE - Android Studio:](#ide---android-studio)
+	- [Contributing](#contributing)
+	- [License](#license)
+
+
 ## Installation:
 * Zip and Unzip Tools: Zip and Unzip might be some necessary tools to install SDKMAN
 	```bash
