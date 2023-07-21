@@ -15,9 +15,14 @@ Feel free to contribute and send suggestions.
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Kotlin.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Kotlin)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Kotlin)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Kotlin)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Kotlin.svg)
+
+</div>
 
 <div align="center">
   
