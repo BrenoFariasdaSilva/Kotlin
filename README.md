@@ -25,10 +25,30 @@ Feel free to contribute and send suggestions.
 </div>
 
 <div align="center">
-  
-![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/54c6014ed6bb4be23d3c23b1dce51d0fdc0f4a52.svg "Repobeats analytics image")
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Kotlin)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Kotlin)
+![GitHub License](https://img.shields.io/github/license/BrenoFariasdaSilva/Kotlin)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Kotlin.svg)
+[![GitHub Commits](https://img.shields.io/github/commit-activity/t/BrenoFariasdaSilva/Kotlin/main)](https://github.com/BrenoFariasdaSilva/Kotlin/commits/main)
+[![GitHub Forks](https://img.shields.io/github/forks/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/network/members)
+![GitHub Language Count](https://img.shields.io/github/languages/count/BrenoFariasdaSilva/Kotlin)
+[![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/stargazers)
+[![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/graphs/contributors)
+[![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin)
+[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin)
+[![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/pulls)
+[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/pulls?q=is%3Apr+is%3Aclosed)
+[![Monthly Commits](https://img.shields.io/github/commit-activity/m/BrenoFariasdaSilva/Kotlin/main)](https://github.com/BrenoFariasdaSilva/Kotlin/commits)
+[![Merged PRs](https://img.shields.io/github/issues-search/BrenoFariasdaSilva/Kotlin?query=is%3Apr%20is%3Amerged&label=merged%20PRs&color=blue)](https://github.com/BrenoFariasdaSilva/Kotlin/pulls?q=is%3Apr+is%3Amerged)
+![GitHub Primary Language](https://img.shields.io/badge/language-Kotlin-3b82f6)
+
+![Repobeats Statistics](https://repobeats.axiom.co/api/embed/54c6014ed6bb4be23d3c23b1dce51d0fdc0f4a52.svg)
 
 </div>
+
 
 ## Table of Contents
 - [Kotlin. ](#kotlin-)
