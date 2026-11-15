@@ -27,7 +27,6 @@ Feel free to contribute and send suggestions.
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Kotlin)](https://github.com/BrenoFariasdaSilva/Kotlin/pulls)
